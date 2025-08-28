@@ -1,0 +1,14 @@
+﻿{
+
+  "ConnectionStrings": {
+    // Local development (Windows Auth)
+    // "DefaultConnection": "Server=.\\SQLEXPRESS;Database=CoffeeDb;Trusted_Connection=True;TrustServerCertificate=True;"
+
+    // Production (SQL Auth)
+    "DefaultConnection": "Server=YOUR_SERVER;Database=CoffeeDb;User Id=YOUR_USER;Password=YOUR_PASSWORD;"
+  },
+
+  "NasaApiKey": "DEMO_KEY"
+}
+
+  

@@ -1,0 +1,6 @@
+@DevCodeChallenge_HostAddress = http://localhost:5262
+
+GET {{DevCodeChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
